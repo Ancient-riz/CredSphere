@@ -1,7 +1,7 @@
 # CredSphere
 # CredSphere – Instant, Tamper-Proof Academic Credentials on Blockchain
 
-![CredSphere Banner](https://via.placeholder.com/1200x600/00C9A7/ffffff?text=CredSphere+%E2%80%93+Blockchain+Credentials+for+Global+Education)  
+
 **Built by Team TRINETRA | November 15, 2025**
 
 **CredSphere** is a **blockchain-powered academic credential platform** that enables **universities to issue verifiable, non-transferable credentials as Soulbound Tokens (SBTs)** on **Ethereum Sepolia**. Students own their achievements forever. Universities and employers verify them in **under 5 seconds** — eliminating weeks of delay and 23% fraud-related rejections.
